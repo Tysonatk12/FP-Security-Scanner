@@ -8,7 +8,7 @@ Thank you!
 
 ----------------------------------------------------------------------------------------------------------
 
-Hello! Here are the following directions for the project! 
+ Here are the following directions for the project! 
 
 Step 1: Open both codes
 
